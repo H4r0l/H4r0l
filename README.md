@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <body class="background-color: teal;">
+  <body style="background-color: teal;">
   <h1 align="center">Hi 👋, I'm Harol</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
