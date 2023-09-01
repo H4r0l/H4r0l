@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <body>
+  <body class="background-color: teal;">
   <h1 align="center">Hi 👋, I'm Harol</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
@@ -45,7 +45,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=h4r0l&" alt="h4r0l" />
 </p>
-<script src="https://cdn.tailwindcss.com"></script>
 </body>
 
 </html>
