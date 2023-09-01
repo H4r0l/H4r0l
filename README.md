@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
   <body>
   <h1 align="center">Hi 👋, I'm Harol</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
@@ -47,35 +50,5 @@
 </p>
 
 </body>
-<style>
-    body {
-      background-color: #f0f4f8; /* Teal background color */
-      color: #333; /* Text color */
-      font-family: Arial, sans-serif;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-      text-align: center;
-    }
-    .profile-img {
-      border-radius: 50%;
-      max-width: 150px;
-      margin-bottom: 20px;
-    }
-    .connect-icons {
-      margin-top: 10px;
-    }
-    .languages-tools {
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
-    }
-    .languages-tools img {
-      margin: 10px;
-      width: 40px;
-      height: 40px;
-    }
-  </style>
+
 </html>
