@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
     <style>
     body {
       background-color: #f0f4f8; /* Teal background color */
@@ -32,7 +31,6 @@
       height: 40px;
     }
   </style>
-  </head>
   <body>
   <h1 align="center">Hi 👋, I'm Harol</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
