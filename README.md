@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.ercel.app/api/top-langs?username=h4r0l&show_icons=true&locale=en&layout=compact" alt="h4r0l" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h4r0l&show_icons=true&locale=en&layout=compact" alt="h4r0l" />
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h4r0l&" alt="h4r0l" />
+  <img src="https://github-readme-streak-stats.erokuapp.com/?user=h4r0l&" alt="h4r0l" />
 </p>
 </body>
 
