@@ -17,7 +17,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=H4r0l)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h4r0l&show_icons=true&locale=en" alt="h4r0l" /></p>
 <img src="https://myreadme.vercel.app/api/embed/H4r0l?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=H4r0l&theme=juicyfresh&no-bg=true" />
