@@ -19,4 +19,3 @@
 
 <img src="https://myreadme.vercel.app/api/embed/H4r0l?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=H4r0l&theme=juicyfresh&no-bg=true" />
