@@ -1,7 +1,7 @@
 <h1 align="center">I'm Harol</h1>
 <h3 align="center">a Software Developer</h3>
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **.NET Core** & **Angular**
 
 - 📫 How to reach me **haroldurrea6@gmail.com**
 
