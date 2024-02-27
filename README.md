@@ -2,7 +2,7 @@
 <h3 align="center">a Software Developer</h3>
 
 - 🌱 I’m currently learning **ASP.NET Core**
-
+- 🎶 I’m interested in *C++*
 - 📫 My email is **haroldurrea6@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
