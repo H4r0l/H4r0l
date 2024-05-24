@@ -1,5 +1,5 @@
-<h1 align="center">I'm Harol</h1>
-<h3 align="center">a Software Developer</h3>
+
+<h3 align="center">I'm Harol, a Software Developer</h3>
 
 - 📫 My email is **haroldurrea6@gmail.com**
 
